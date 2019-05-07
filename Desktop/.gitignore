@@ -1,0 +1,4 @@
+*.tfstate
+*.tfstate.backup
+.terraform
+Desktop/VPC/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.9.0_x4
